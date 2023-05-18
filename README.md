@@ -71,5 +71,5 @@ Se possível:<br>
 ____________________________________________________________________
 <h4>📝Referência:</h4>
 <p>
-<a href="[DIO | Codifique o seu futuro global agora](https://web.dio.me/home)">DIO</a><br>
+<a href="https://web.dio.me/home">DIO | Codifique o seu futuro global agora</a><br>
 <a href="https://github.com/cami-la">Camila Cavalcante</a><br>
