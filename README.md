@@ -4,7 +4,7 @@
 e foi disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.<br>
 <p>
 💎 O objetivo principal é colocar em prática umas das principais ferramentas da POO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO</strong>, através de um projeto Java.<br>
-> </p>
+</p>
 
 <h2> 🛑 Pré-Requisitos</h2>
 <p>
